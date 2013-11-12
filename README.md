@@ -1,5 +1,7 @@
 # CakePHP Email Queue plugin #
 
+~forked by Mangrove on November 12th 2013~
+
 This plugin provides an interface for creating emails on the fly and
 store them in a queue to be processed later by an offline worker using a
 cakephp shell command.
