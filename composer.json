@@ -1,0 +1,8 @@
+{
+    "name": "mangroveab/email-queue",
+    "type": "cakephp-plugin",
+    "description": "Email queue plugin for CakePHP Admin Plugin.",
+    "require": {
+        "composer/installers": "*"
+    }
+}
